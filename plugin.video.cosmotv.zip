@@ -1,0 +1,7 @@
+cosmotv-addon-repo/
+├── plugin.video.cosmotv/
+│   ├── addon.xml
+│   ├── cosmotv.py
+├── addons.xml
+├── addons.xml.md5
+└── README.md
