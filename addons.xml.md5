@@ -1,0 +1,1 @@
+$(certUtil -hashfile addons.xml MD5)[1] -replace " ", "" | Out-File addons.xml.md5
